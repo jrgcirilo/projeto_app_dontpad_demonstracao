@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">   Dontpad TAG</string>
+    <string name="action_settings">Configurações</string>
+    <string name="tagLabel" translatable="false">TAG</string>
+    <string name="tagTitleText" translatable="false">Digite uma TAG</string>
+    <string name="cdTitleText" translatable="false">Digite uma TAG</string>
+    <string name="tagText" translatable="false">Compartilhe um texto</string>
+    <string name="cdTagText" translatable="false">Compartilhe um texto</string>
+    <string name="textButton" translatable="false">Texto</string>
+    <string name="photoButton" translatable="false">Fotos</string>
+    <string name="cdTextButton" translatable="false">Botão Texto</string>
+    <string name="cdPhotoButton" translatable="false">Botão Fotos</string>
+    <string name="tagLabel_1" translatable="false">TAG</string>
+    <string name="tagTitlePhoto" translatable="false">Digite uma TAG</string>
+    <string name="cdTitlePhoto" translatable="false">Digite uma TAG</string>
+    <string name="cdCamButton"  translatable="false">Botão Câmera</string>
+    <string name="cdPhotoGallery" translatable="false">Galeria de Fotos</string>
+    <string name="textButton_1" translatable="false">Texto</string>
+    <string name="photoButton_1" translatable="false">Fotos</string>
+    <string name="cdTextButton_1" translatable="false">Botão Texto</string>
+    <string name="cdPhotoButton_1" translatable="false">Botão Fotos</string>
+    <string name="tagLabel_2" translatable="false">TAG</string>
+    <string name="tagTitle_2" translatable="false">Crie uma TAG</string>
+    <string name="shareButton" translatable="false">Compartilhar</string>
+    <string name="cdShareButton" translatable="false">Compartilhar</string>
+    <string name="cdGalleryButton" translatable="false">Compartilhar</string>
+    <string name="shareButton_1" translatable="false">Compartilhar</string>
+    <string name="cdShareButton_1" translatable="false">Compartilhar</string>
+    <string name="tag" translatable="false">TAG</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="todo1" translatable="false">TODO</string>
+    <string name="noTag" translatable="false">Crie uma TAG</string>
+    <string name="noCam" translatable="false">Câmera não disponível</string>
+    <string name="noPhoto" translatable="false">Erro ao realizar upload da foto!</string>
+    <string name="takePhoto" translatable="false">Foto registrada!</string>
+</resources>
